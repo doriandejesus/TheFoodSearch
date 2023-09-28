@@ -1,0 +1,20 @@
+Kappy's Crispers	FL	Bar Pub	V 	Orange	A 	4
+Jerimiah's Jackin' Juice	FL	Restaurant	PK 	Lake	A 	2
+Budget Boba Bouncers	FL	American Bar	K 	Lake	B 	3
+Rice Kingdom	FL	Mexican	VK 	Brevard	A 	1
+High End Costco	FL	Barbecue	V 	Sumter	E 	4
+Alvin and the Rabid Squirrels	FL	Seafood	PV 	Osceola	A 	1
+Flippin' Floridian Flapjacks	FL	American Bar Pub	PV 	Orange	A 	2
+Swampy Saturdays	FL	Barbecue	K 	Osceola	B 	3
+Alligator Later	FL	American Diner	V 	Lake	B 	5
+Pizza Pizza Pikachu	FL	American Seafood	PV 	Seminole	A 	2
+Random Restaurant Name	FL	Restaurant	K 	Polk	E 	3
+Fortune Favors the Cookie	FL	Seafood Grill	VK 	Orange	A 	3
+Waterfall of Tequila	FL	Restaurant	PVK 	Sumter	E 	1
+Is Anyone Else Hungry?	FL	Restaurant	PK 	Sumter	A 	5
+Teardrops on My Empty Plate	FL	Bar Pub	PVK 	Polk	E 	4
+Shooting Stardust	FL	Pizza	P 	Polk	A 	2
+Smoothie Sliding	FL	American	PV 	Polk	B 	1
+Sauces and Summer	FL	Pub	V 	Osceola	B 	2
+Magic Munchie-Land	FL	Asian	K 	Osceola	A 	3
+Gator-Aid	FL	Restaurant	K 	Seminole	A 	2
